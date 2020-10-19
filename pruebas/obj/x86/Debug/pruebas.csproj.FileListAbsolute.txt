@@ -1,0 +1,8 @@
+F:\UsersControl\ehurtado\Documents\Projects\pruebas\pruebas\bin\Debug\pruebas.exe
+F:\UsersControl\ehurtado\Documents\Projects\pruebas\pruebas\bin\Debug\pruebas.pdb
+F:\UsersControl\ehurtado\Documents\Projects\pruebas\pruebas\bin\Debug\Sider.dll
+F:\UsersControl\ehurtado\Documents\Projects\pruebas\pruebas\obj\x86\Debug\pruebas.csprojResolveAssemblyReference.cache
+F:\UsersControl\ehurtado\Documents\Projects\pruebas\pruebas\obj\x86\Debug\pruebas.exe
+F:\UsersControl\ehurtado\Documents\Projects\pruebas\pruebas\obj\x86\Debug\pruebas.pdb
+F:\UsersControl\ehurtado\Documents\Projects\pruebas\pruebas\bin\Debug\Tamir.SharpSsh.dll
+F:\UsersControl\ehurtado\Documents\Projects\pruebas\pruebas\bin\Debug\DiffieHellman.dll
